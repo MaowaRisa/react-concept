@@ -1,0 +1,10 @@
+.box{
+    border: 2px solid tomato;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 8px;
+}
+.innerBox{
+    border: 2px dashed burlywood;
+    margin: 10px;
+}
